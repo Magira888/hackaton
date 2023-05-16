@@ -1,29 +1,29 @@
 {
   "product": [
     {
-      "name": "Meerim",
-      "number": "23",
+      "name": "wetwet",
+      "number": "34",
+      "id": 1
+    },
+    {
+      "name": "wet245",
+      "number": "we4",
       "id": 2
     },
     {
-      "name": "nurbek",
-      "number": "01",
+      "name": "t34tt3",
+      "number": "4",
       "id": 3
     },
     {
-      "name": "hgiyg",
-      "number": "4654",
+      "name": "wef",
+      "number": "f",
       "id": 4
     },
     {
-      "name": "Aktilek",
-      "number": "7",
+      "name": "fwerf",
+      "number": "weff",
       "id": 5
-    },
-    {
-      "name": "vlad",
-      "number": "3453",
-      "id": 6
     }
   ]
 }
