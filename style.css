@@ -114,6 +114,7 @@ body {
   background-color: #021927;
   padding: 50px;
   display: none;
+  text-align: center;
 }
 
 .modal > input {
